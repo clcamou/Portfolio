@@ -43,9 +43,6 @@ nav a:hover {
   opacity: 0.8;
 }
 
-/* end hover styling */
-
-/* general styling */
 
 .container {
   width: 100%;
@@ -58,7 +55,7 @@ h1,
 h2,
 h3,
 p {
-  margin-bottom: 20px;
+  margin-bottom: 20px; 
 }
 
 p:last-child {
@@ -84,8 +81,6 @@ h2,
 h3 {
   font-size: 22px;
 }
-
-/* header */
 
 #masthead {
   position: fixed;
@@ -131,7 +126,6 @@ nav a:first-child {
   border-left: 0 none;
 }
 
-/* footer */
 
 footer {
   padding: 30px 0;
@@ -144,7 +138,6 @@ footer {
   border-top: 8px solid #4aaaa5;
 }
 
-/* sidebar */
 
 .sidebar {
   float: right;
@@ -175,7 +168,6 @@ h3,
   margin-right: 0;
 }
 
-/* main */
 
 #main-container {
   padding-top: 130px;
@@ -191,7 +183,7 @@ h3,
   border: 1px solid #ddd;
 }
 
-/* contact page */
+
 
 #contact-form ul {
   margin-bottom: 20px;
